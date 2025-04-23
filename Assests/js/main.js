@@ -31,10 +31,10 @@ function headerShow(){
 
 /*-----------------------TYPING EFFECT----------- */
 var typingEffect = new Typed(".typedText",{
-    strings : ["Developer","Student"],
+    strings : ["a DevOps Intern"],
     loop : true,
-    typeSpeed : 100,
-    backSpeed : 80,
+    typeSpeed : 70,
+    backSpeed : 70,
     backDelay : 2000
 })
 
